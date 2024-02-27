@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_article_detail_article_details",
+  "info": {
+    "displayName": "User article",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "author": {
+      "type": "string"
+    },
+    "desc": {
+      "type": "string"
+    },
+    "content": {
+      "type": "richtext"
+    }
+  }
+}
